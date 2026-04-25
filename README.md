@@ -55,7 +55,7 @@ A cena final apresenta um corredor futurista com atmosfera cinematográfica, des
 - Efeitos visuais integrados ao ambiente  
 - Pós-processamento equilibrado  
 
-*((https://youtu.be/Bm44JDnnwjk)*
+*https://youtu.be/Bm44JDnnwjk*
 
 ---
 
