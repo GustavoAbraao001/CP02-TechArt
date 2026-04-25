@@ -15,7 +15,7 @@ Criar uma cena de corredor de nave espacial com alta fidelidade visual, exploran
 A proposta da cena é representar o interior de uma nave espacial com forte identidade visual futurista, utilizando:
 
 - Contraste intenso entre luz e sombra  
-- Paleta de cores neon (azul, vermelho e roxo)  
+- Paleta de cores neon (azul e verde)  
 - Estrutura modular para sensação de profundidade  
 - Elementos emissivos e tecnológicos  
 
@@ -41,9 +41,8 @@ Durante o projeto, foram aplicados e explorados os seguintes sistemas da Unity:
 - Ajuste fino de exposição e saturação  
 
 ### ✨ VFX (Partículas)
-- Efeitos de poeira, fumaça e faíscas elétricas  
-- Integração das partículas com a iluminação da cena  
-- Ajustes de vida, cor e movimento para ambientação  
+- Efeitos de diferentes tipos de fumaças 
+- Integração das partículas com a iluminação da cena    
 
 ---
 
@@ -56,7 +55,7 @@ A cena final apresenta um corredor futurista com atmosfera cinematográfica, des
 - Efeitos visuais integrados ao ambiente  
 - Pós-processamento equilibrado  
 
-*(Inserir aqui o link do vídeo da apresentação)*
+*((https://youtu.be/Bm44JDnnwjk)*
 
 ---
 
